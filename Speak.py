@@ -1,3 +1,5 @@
+# Algorithm in python to process the language spoken in the App */
+
 import speech_recognition as sr
 
 # Criando um objeto de reconhecimento de fala
