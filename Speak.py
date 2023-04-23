@@ -1,4 +1,5 @@
 # Algorithm in python to process the language spoken in the App */
+# In progress
 
 import speech_recognition as sr
 
